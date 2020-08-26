@@ -1,0 +1,15 @@
+@font-face {
+  font-family: AvenirNext-DemiBold;
+  src: url(91b50bbb-9aa1-4d54-9159-ec6f19d14a7c.woff) format("woff");
+  font-weight: 600;
+}
+@font-face {
+  font-family: AvenirNext-Medium;
+  src: url(f26faddb-86cc-4477-a253-1e1287684336.woff) format("woff");
+  font-weight: 500;
+}
+@font-face {
+  font-family: AvenirNext-Regular;
+  src: url(1e9892c0-6927-4412-9874-1b82801ba47a.woff) format("woff");
+  font-weight: 400;
+}
