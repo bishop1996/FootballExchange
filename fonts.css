@@ -13,3 +13,12 @@
   src: url(1e9892c0-6927-4412-9874-1b82801ba47a.woff) format("woff");
   font-weight: 400;
 }
+
+AvenirNext-Bold
+
+@font-face {
+  font-family: AvenirNext-Bold;
+  src: url(Avenir Next.ttc) format("ttc");
+}
+
+
