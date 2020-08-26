@@ -19,6 +19,17 @@ node_modules/framer/build/framer.api.json
 node_modules/framer/README.md
 node_modules/framer/LICENSE.md
 node_modules/framer/CHANGELOG.md
+node_modules/@framer/steveruizok.undraw/tsconfig.json
+node_modules/@framer/steveruizok.undraw/package.json
+node_modules/@framer/steveruizok.undraw/package-lock.json
+node_modules/@framer/steveruizok.undraw/metadata/icon.png
+node_modules/@framer/steveruizok.undraw/metadata/artwork.png
+node_modules/@framer/steveruizok.undraw/dist/index.js
+node_modules/@framer/steveruizok.undraw/design/document.json
+node_modules/@framer/steveruizok.undraw/code/canvas.tsx
+node_modules/@framer/steveruizok.undraw/code/UnDraw.tsx
+node_modules/@framer/steveruizok.undraw/code/Examples.tsx
+node_modules/@framer/steveruizok.undraw/README.md
 node_modules/@framer/kasimir.iphone-x-kit/tsconfig.json
 node_modules/@framer/kasimir.iphone-x-kit/package.json
 node_modules/@framer/kasimir.iphone-x-kit/metadata/icon.png
